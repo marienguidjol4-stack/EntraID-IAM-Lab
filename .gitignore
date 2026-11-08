@@ -1,0 +1,9 @@
+# Fichiers pouvant contenir un mot de passe ou un secret : ne jamais versionner
+entra_bulk_create.csv
+*.secret
+.env
+
+# Fichiers système et journaux
+Thumbs.db
+.DS_Store
+*.log

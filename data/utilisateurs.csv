@@ -1,0 +1,19 @@
+Prenom;Nom;Login;Departement;Fonction
+Camille;Laurent;camille.laurent;FIN;Comptable
+Thomas;Girard;thomas.girard;FIN;Analyste financier
+Sophie;Marchand;sophie.marchand;FIN;Responsable financier
+Nadia;Benali;nadia.benali;RH;Gestionnaire RH
+Julien;Moreau;julien.moreau;RH;Responsable RH
+Hugo;Fontaine;hugo.fontaine;IT;Responsable IT
+Awa;Traore;awa.traore;IT;Technicien support
+Lucas;Bernard;lucas.bernard;IT;Analyste support
+Karim;Haddad;karim.haddad;VTE;Commercial
+Emma;Rousseau;emma.rousseau;VTE;Assistant commercial
+Mathieu;Garnier;mathieu.garnier;VTE;Responsable des ventes
+Ines;Morel;ines.morel;ACH;Acheteur
+Antoine;Lefebvre;antoine.lefebvre;ACH;Responsable achats
+Fatou;Diallo;fatou.diallo;JUR;Juriste
+Yanis;Mercier;yanis.mercier;JUR;Responsable juridique
+Hugo;Fontaine;adm-hugo;;Compte administrateur
+Awa;Traore;adm-awa;;Compte administrateur
+Compte;Urgence;bg-01;;Compte d'urgence (break-glass)

@@ -1,0 +1,20 @@
+Nom;Description
+GRP-DEP-FIN;Département Finance (affecté au S1, dynamique au S2)
+GRP-DEP-RH;Département Ressources humaines (affecté au S1, dynamique au S2)
+GRP-DEP-IT;Département IT (affecté au S1, dynamique au S2)
+GRP-DEP-VTE;Département Ventes (affecté au S1, dynamique au S2)
+GRP-DEP-ACH;Département Achats (affecté au S1, dynamique au S2)
+GRP-DEP-JUR;Département Juridique (affecté au S1, dynamique au S2)
+ROLE-Responsable;Tous les responsables de département
+ROLE-Support-IT;Équipe support IT
+ACC-ERP-Finance;Accès à l'application ERP Finance (lab : modèle d'accès)
+ACC-SIRH-RH;Accès au SIRH (lab : modèle d'accès)
+ACC-Outils-IT;Accès aux outils IT (lab : modèle d'accès)
+ACC-CRM-Ventes;Accès au CRM Ventes (lab : modèle d'accès)
+ACC-Achats-Fournisseurs;Accès au portail fournisseurs (lab : modèle d'accès)
+ACC-Contrats-Juridique;Accès à la base de contrats (lab : modèle d'accès)
+ACC-Reporting-Direction;Accès au reporting de direction (lab : modèle d'accès)
+ACC-Helpdesk-IT;Accès à la console helpdesk (lab : modèle d'accès)
+PRIV-Admins-IT;Comptes d'administration adm-* (accès privilégiés)
+PRIV-BreakGlass;Compte d'urgence bg-01, exclu des politiques d'accès conditionnel
+TST-CA-Pilote;Utilisateurs pilotes pour tester l'accès conditionnel (S3)
